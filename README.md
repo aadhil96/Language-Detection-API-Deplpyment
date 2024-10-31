@@ -1,4 +1,4 @@
-# Deploy ML models with FastAPI, Docker, and Heroku
+# Language Detection Deployment Using FastAPI, Docker, and Heroku
 
 ### 1. Develop and save the model with this Colab
 
