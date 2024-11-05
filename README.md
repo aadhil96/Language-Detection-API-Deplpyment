@@ -1,5 +1,7 @@
 # Language Detection Deployment Using FastAPI, Docker, and Heroku
 
+This project demonstrates the deployment of a Language Detection API using FastAPI, Docker, and Heroku. The API detects the language of a given text input and returns the language name.
+
 ### 1. Develop and save the model with this Colab
 
 [Open Colab](https://colab.research.google.com/drive/1uaALcaatvxOu42IhQA4r0bahfdpw-Z7v?usp=sharing)
